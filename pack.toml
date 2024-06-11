@@ -1,0 +1,17 @@
+
+[custom.all.algae]
+type="git"
+url="https://gitlab.com/avidela/algebraic-data.git"
+commit="546f33cbe36a29f4aeee22e2e3e81522d69db0d0"
+ipkg="algae.ipkg"
+
+[custom.all.setoid]
+type="git"
+url="https://github.com/andrevidela/idris-setoid.git"
+commit="52212816ad0c9981f8b31ead516f018221b9ebc4"
+ipkg="setoid.ipkg"
+
+[idris2]
+url="https://github.com/andrevidela/Idris2"
+commit="e999e4def43585d3fd5b2b3dfa1c9aeb2ff04eaf"
+
